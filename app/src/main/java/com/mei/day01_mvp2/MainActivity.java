@@ -13,7 +13,13 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         initView();
-        initDate();
+        initText();
+        initText();
+        initText();
+
+    }
+
+    private void initText() {
 
     }
 
